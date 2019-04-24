@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=north,lit=false": { "model": "wfurnace:block/wfurnace_angel" },
+        "facing=south,lit=false": { "model": "wfurnace:block/wfurnace_angel", "y": 180 },
+        "facing=west,lit=false":  { "model": "wfurnace:block/wfurnace_angel", "y": 270 },
+        "facing=east,lit=false":  { "model": "wfurnace:block/wfurnace_angel", "y": 90 },
+        "facing=north,lit=true": { "model": "wfurnace:block/wfurnace_devil" },
+        "facing=south,lit=true": { "model": "wfurnace:block/wfurnace_devil", "y": 180 },
+        "facing=west,lit=true":  { "model": "wfurnace:block/wfurnace_devil", "y": 270 },
+        "facing=east,lit=true":  { "model": "wfurnace:block/wfurnace_devil", "y": 90 }
+    }
+}

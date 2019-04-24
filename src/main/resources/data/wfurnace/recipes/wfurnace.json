@@ -1,0 +1,25 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "ISO",
+        " G ",
+        " G "
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:iron_ingot"
+        },
+        "S": {
+            "item": "minecraft:stone"
+        },
+        "O": {
+            "item": "minecraft:gold_ingot"
+        },
+        "G": {
+            "item": "minecraft:granite"
+        }
+    },
+    "result": {
+        "item": "wfurnace:wpickaxe"
+    }
+}
