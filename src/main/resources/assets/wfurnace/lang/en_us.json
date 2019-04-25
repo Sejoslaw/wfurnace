@@ -1,0 +1,10 @@
+{
+    "_comment": "Creative Tab",
+    "itemGroup.wfurnace": "WFurnace",
+
+    "_comment": "Items",
+    "item.wfurnace.wpickaxe": "WPickaxe",
+
+    "_comment": "Blocks",
+    "block.wfurnace.wfurnace": "WFurnace"
+}
